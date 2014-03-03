@@ -1,0 +1,8 @@
+G:\Visual Studio 2010_projects\Projects\ImageComparison\ImageComparison\bin\Debug\ImageComparison.exe
+G:\Visual Studio 2010_projects\Projects\ImageComparison\ImageComparison\bin\Debug\ImageComparison.pdb
+G:\Visual Studio 2010_projects\Projects\ImageComparison\ImageComparison\obj\x86\Debug\ImageComparison.Form1.resources
+G:\Visual Studio 2010_projects\Projects\ImageComparison\ImageComparison\obj\x86\Debug\ImageComparison.Properties.Resources.resources
+G:\Visual Studio 2010_projects\Projects\ImageComparison\ImageComparison\obj\x86\Debug\ImageComparison.csproj.GenerateResource.Cache
+G:\Visual Studio 2010_projects\Projects\ImageComparison\ImageComparison\obj\x86\Debug\ImageComparison.exe
+G:\Visual Studio 2010_projects\Projects\ImageComparison\ImageComparison\obj\x86\Debug\ImageComparison.pdb
+G:\Visual Studio 2010_projects\Projects\ImageComparison\ImageComparison\obj\x86\Debug\ImageComparison.csprojResolveAssemblyReference.cache
